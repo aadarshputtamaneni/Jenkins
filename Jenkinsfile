@@ -13,7 +13,7 @@
         }
         stage('deploy'){
             steps{
-                sh 'echo this is deploy'
+                sh 'echo this is '
             }
         }
         
